@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @alaabenfradj
-- 👀 I’m interested in web DEV
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on projects 
+### I am currently pursuing an engineering degree in computer science at ESPRIT. I am highly motivated and hard working web developer with tenacity to prove my best abilities. I want to further improve my technical and soft skills in order to achieve my goals and become a better version of myself.
 - 📫 you can reach me on my email :alaa.benfradj@esprit.tn
 
 <!---
